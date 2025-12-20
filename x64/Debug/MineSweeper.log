@@ -1,0 +1,4 @@
+﻿  game.cpp
+E:\Visual Studio code\2023_code\MineSweeper\game.cpp(761): warning C4715: “EditFlag”: 不是所有的控件路径都返回值
+E:\Visual Studio code\2023_code\MineSweeper\game.cpp(712): warning C4715: “FindMine2”: 不是所有的控件路径都返回值
+  MineSweeper.vcxproj -> E:\Visual Studio code\2023_code\MineSweeper\x64\Debug\MineSweeper.exe
